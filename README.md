@@ -1,5 +1,5 @@
 # Portfolio-Simple-Website
-Welcome to my portfolio website! This project showcases my skills and experience in civil engineering, project coordination, and interior works. It is designed to highlight my completed projects, certifications, and expertise in various tools and techniques.
+Welcome to my portfolio website! 
 
 # Features
 Responsive Design: The website is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
